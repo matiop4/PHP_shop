@@ -1,0 +1,6 @@
+1. Skopiowanie folderu "projektSklep" do folderu "../xampp/htdocs"
+2. Stworzenie bazy "projektsklep" i zaimportowanie do niej pliku "/baza/projektsklep.sql"
+2. Wpisanie w wyszukiwarce "http://localhost/projektSklep-master"
+4. Stworzenie klienta poprzez Rejestracje
+5. Zalogowanie siê na pracownika poprzez dane "test" "test" 
+6. STRONA NAPISANA W PHP 5.6 , TRZEBA SIÊ UPEWNIÆ ZE XAMPP OBS£UGUJE W£ASNIE T¥ WERSJE
